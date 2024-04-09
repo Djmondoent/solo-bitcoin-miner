@@ -520,7 +520,7 @@ if __name__ == "__main__":
     
     if len(sys.argv) < 3:
         print("Usage: {:s} <coinbase message> <block reward address>".format(sys.argv[0]))
-        print("example:  python wishmeluck.py 'I Believe in God' 3Do4umPeFB7hcZ3A5fQvcXUKV227kwk33d".format(sys.argv[0]))
+        print("example:  python wishmeluck.py 'I Believe in God' 182GpnRw4binwfWALMkvBEDwswhy74xLt7".format(sys.argv[0]))
         sys.exit(1)
     
 
